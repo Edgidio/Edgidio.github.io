@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color: #4154f1;
+  color: #1770FF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #717ff5;
+  color: #012970;
   text-decoration: none;
 }
 
@@ -126,7 +126,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #135ED8;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -140,7 +140,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #6776f4;
+  background: #124496;
   color: #fff;
 }
 
@@ -601,7 +601,7 @@ section {
 
 .values .box h3 {
   font-size: 24px;
-  color: #012970;
+  color: #1770FF;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -641,7 +641,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #0b198f;
+  color: #1770FF;
 }
 
 .counts .count-box p {
@@ -1090,8 +1090,8 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #4154f1;
-  border-color: #4154f1;
+  color: #124496;
+  border-color: #124496;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1189,7 +1189,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  background: #4154f1;
+  background: #135CD2;
   margin: 10px 2px;
   width: 36px;
   height: 36px;
@@ -1206,7 +1206,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: #5969f3;
+  background: #135CD2;
 }
 
 .portfolio .portfolio-wrap:hover img {
@@ -1458,7 +1458,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #012970;
+  color: #1770FF;
 }
 
 .team .member .member-info span {
@@ -1508,11 +1508,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #4154f1;
+  border: 1px solid #124496;
 }
 
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4154f1;
+  background-color: #124496;
 }
 
 /*--------------------------------------------------------------
@@ -1550,7 +1550,7 @@ section {
 
 .recent-blog-posts .post-box .post-title {
   font-size: 24px;
-  color: #012970;
+  color: #1770FF;
   font-weight: 700;
   margin-bottom: 18px;
   position: relative;
@@ -1572,7 +1572,7 @@ section {
 }
 
 .recent-blog-posts .post-box:hover .post-title {
-  color: #4154f1;
+  color: #1770FF;
 }
 
 .recent-blog-posts .post-box:hover .post-img img {
@@ -1591,12 +1591,12 @@ section {
 .contact .info-box i {
   font-size: 38px;
   line-height: 0;
-  color: #4154f1;
+  color: #1770FF;
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #012970;
+  color: #1770FF;
   font-weight: 700;
   margin: 20px 0 10px 0;
 }
@@ -1664,7 +1664,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #4154f1;
+  border-color: #135CD2;
 }
 
 .contact .php-email-form input {
@@ -1676,7 +1676,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #4154f1;
+  background: #135ED8;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1685,7 +1685,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #5969f3;
+  background: #124496;
 }
 
 @keyframes animate-loading {
@@ -1730,7 +1730,7 @@ section {
 }
 
 .blog .entry .entry-title a:hover {
-  color: #4154f1;
+  color: #012970;
 }
 
 .blog .entry .entry-meta {
@@ -2297,7 +2297,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #1770FF;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2325,7 +2325,7 @@ section {
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: #1770FF;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2359,14 +2359,14 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: #1770FF;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
+  color: #1770FF;
 }
 
 .footer .footer-top .footer-contact p {
